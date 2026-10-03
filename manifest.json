@@ -1,0 +1,15 @@
+{
+  "/assets/cars/911.glb": { "size": 19320764, "parts": 1 },
+  "/assets/cars/amgone.glb": { "size": 9968160, "parts": 1 },
+  "/assets/cars/aventador.glb": { "size": 13724924, "parts": 1 },
+  "/assets/cars/hellcat.glb": { "size": 5599964, "parts": 1 },
+  "/assets/cars/p1.glb": { "size": 12226052, "parts": 1 },
+  "/assets/cars/rb19.glb": { "size": 54466420, "parts": 1 },
+  "/assets/cars/sf90.glb": { "size": 18762984, "parts": 1 },
+  "/assets/cars/valkyrie.glb": { "size": 16141912, "parts": 1 },
+  "/assets/garage/garage.glb": { "size": 8296380, "parts": 1 },
+  "/assets/tracks/bahrain.glb": { "size": 70465448, "parts": 1 },
+  "/assets/tracks/marina.glb": { "size": 59480980, "parts": 1 },
+  "/assets/tracks/nurburgring.glb": { "size": 91669124, "parts": 1 },
+  "/assets/tracks/spa.glb": { "size": 161348028, "parts": 2 }
+}
